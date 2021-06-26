@@ -1,0 +1,11 @@
+Added Component: Designator=R?_U_Sheet11(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Sheet12(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Class: Name=U_Sheet11
+Added Class: Name=U_Sheet12
+Added Class: Name=Sheet1
+Added Room: Name=U_Sheet11
+Added Room: Name=U_Sheet12

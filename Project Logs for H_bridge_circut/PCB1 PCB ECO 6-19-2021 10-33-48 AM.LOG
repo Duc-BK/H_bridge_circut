@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=NetDZ3_1 Pin=C5-1
+Added Pin To Net: NetName=NetDZ3_1 Pin=C6-2
+Added Pin To Net: NetName=NetDZ1_1 Pin=C9-1
+Added Pin To Net: NetName=NetDZ1_1 Pin=C10-2
+Added Pin To Net: NetName=NetDZ1_1 Pin=U1-6
+Added Pin To Net: NetName=NetDZ3_1 Pin=U2-6
+Change Net Name : Old Net Name=NetC11_3 New Net Name=EN
+Change Net Name : Old Net Name=NetDZ1_1 New Net Name=VS1
+Change Net Name : Old Net Name=NetDZ3_1 New Net Name=VS2
+Added Pin To Net: NetName=HO1 Pin=D1-2
+Added Pin To Net: NetName=HO1 Pin=R1-1
+Added Pin To Net: NetName=HO1 Pin=U1-7
+Added Net: Name=HO1
+Added Pin To Net: NetName=HO2 Pin=D3-2
+Added Pin To Net: NetName=HO2 Pin=R5-1
+Added Pin To Net: NetName=HO2 Pin=U2-7
+Added Net: Name=HO2
+Added Pin To Net: NetName=LO1 Pin=D2-2
+Added Pin To Net: NetName=LO1 Pin=R3-1
+Added Pin To Net: NetName=LO1 Pin=U1-4
+Added Net: Name=LO1
+Added Pin To Net: NetName=LO2 Pin=D4-2
+Added Pin To Net: NetName=LO2 Pin=R7-1
+Added Pin To Net: NetName=LO2 Pin=U2-4
+Added Net: Name=LO2

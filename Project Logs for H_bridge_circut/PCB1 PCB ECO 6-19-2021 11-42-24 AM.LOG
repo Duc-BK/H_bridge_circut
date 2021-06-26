@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VS2 Pin=J_MOTOR-1
+Removed Pin From Net: NetName=NetFUSE_2 Pin=J_MOTOR-2
+Added Pin To Net: NetName=NetFUSE_2 Pin=J_MOTOR-1
+Added Pin To Net: NetName=VS2 Pin=J_MOTOR-2
+Added Room: Name=Sheet1
+Added Room: Name=U_Sheet2
